@@ -4,16 +4,16 @@
       <title>About myself</title>
       <hr>
  </head>     
-<h1>About my self</h1>
 <body>
-</hr>
+<h1>About my self</h1>
+
      <P> My name is Kutlwano and my surname is Thusi.I am a boy of 15 years of age soon to be turning 16,I am currently living in Kanana with my family which is my mother,father,little sister and little brother.I think of myself as a humble,respectful shy and a loyal person.What i really like is playing soccer,cooking,eating,exploring and spending time with my friends.What i mostly dislike in life are people who pretend to love me but actually don't and i really like those who hate me openly because i know that they will never be able to hurt me.I have been hurt many times in life that's why i live by this saying "trust because you are willing to accept the risk,not because it is safe or certain".</p>
      <br>
 <hr>
 
 <h1>My academics</h1>
 
-<head>
+
 
       <p> I chose math and science because i like working with numbers and solving problems.The other reason why i chose this stream is because it is a requirement in the career i want to pursue which civil engineering.For me to be able to be a civil engineer,i need to pass my mathematics and physical science with high marks.If i don't succeed in being a civil engineer i would want to be a fleet manager.I want to study my courses at the University of Pretoria.</p>
       </head>
@@ -23,20 +23,20 @@
      
      <h1>My favourite cars</h1>
      
-     <head>
+     
      
     <p>I really didin't love cars in the first place but when i saw the Mercedez benz viano v6,i just fell in love with it instantly.I also have favourite cars like the BMW m4,audi RS6,ford mustang and mini coopers.Watching European football made like all these kinds of cars because European footballers travel using these cars.</P>
     </head>
     <br>
     </hr>
     
-   </body>
+   
                <li><a href = "Kutlwano.html" target =" _blank">Exhausting saturday</a></li>
 
             <li><a href = "https://kahoot.it" target = "_blank">kahoot</a></li>
             
           <li><a href = "https://www.Tunisi.org.in" target ="_blank">Tunisi</a></li>
 
-   
+   </body>
    </html>
 
